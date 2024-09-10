@@ -1,16 +1,15 @@
-## Hi there 👋
+### *boas vindas ao meu perfil* 🤙
 
-<!--
-**vinig0/vinig0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Vinícius*
 
-Here are some ideas to get you started:
+- Sou estudante na escola PEI Luiz Menezes
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode me contatar 📧
+
+  00001124095330sp@al.educacao.sp.gov.br
+
+  @vinioliveira670
+
+  ![](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
